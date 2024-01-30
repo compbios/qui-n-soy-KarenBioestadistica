@@ -12,6 +12,6 @@ Santa Apolonia
 
 Me encanta estudiar, soy feliz por esta bendición!!!
 **Auditor de Salud**,
-**Salubrista Público**
+**Salubrista Público**,
 Próximamente **Bioestadística**
 _Soy nueva en esto y quiero aprender muchos tips para manejar el lenguaje Markdown y la plataforma GitHub_
