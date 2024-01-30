@@ -1,6 +1,6 @@
 # Esta es mi primer experiencia con GitHub usando lenguaje Markdown
 
-** Mi nombre es Karen Viviana Zabaleta Rodríguez **
+**Mi nombre es Karen Viviana Zabaleta Rodríguez**
 
 _Soy Odontóloga desde hace 22 años, me encanta mi profesión y siempre la he ejercido_
 
