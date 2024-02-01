@@ -4,9 +4,9 @@
 
 Me siento muy maravillada :star_struck: con esta nueva experiencia
 
-_Soy Odontóloga desde hace 22 años, me encanta mi profesión y siempre la he ejercido_
+_Soy Odontóloga desde hace 23 años, me encanta mi profesión y siempre la he ejercido_
 
-Mi consultorio odontológico se llama Centro de Salud Oral Santa Apolonia. Ella es la patrona de los odontólogos, conoce su historia consultando el siguiente enlace  https://es.wikipedia.org/wiki/Apolonia_de_Alejandr%C3%ADa
+Mi consultorio odontológico se llama [Centro de Salud Oral Santa Apolonia]  _Santa Apolonia_ es la patrona de los odontólogos, conoce su historia consultando el siguiente enlace : https://es.wikipedia.org/wiki/Apolonia_de_Alejandr%C3%ADa.
 
 Esta es su imagen
 
